@@ -1,0 +1,27 @@
+.form-container{
+    width: 500px;
+    height: 600px;
+    border: 1px solid #95A0A7;
+    margin: 20px auto;
+}
+
+input{
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 10px;
+    margin-bottom: 15px;
+  
+}
+.form-title{
+    text-align: center;
+    font-weight: 800px;
+    text-decoration-line: underline;
+}
+.form-field{
+   text-align: center;
+}
+.socail-btn{
+    text-align: center;
+}
